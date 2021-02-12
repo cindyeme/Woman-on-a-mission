@@ -120,13 +120,13 @@
 
           </div>
 
-          <div class="col-lg-6 background order-lg-2" data-aos="zoom-in">
+          <div class="col-lg-6 background order-lg-2">
             <img src="assets/images/careers.png" class="img-fluid" alt="">
           </div>
         </div>
 
         <div class="row about-extra">
-          <div class="col-lg-6" data-aos="fade-right">
+          <div class="col-lg-6">
             <img src="assets/images/welcome.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-5 pt-lg-0 clearfix content" data-aos="fade-left">
@@ -160,7 +160,7 @@
         </div>
 
         <div class="row about-extra">
-          <div class="col-lg-5 order-1 order-lg-2" data-aos="fade-left">
+          <div class="col-lg-5 order-1 order-lg-2">
             <img src="assets/images/qestn.png" class="img-fluid h-" alt="">
           </div>
 
