@@ -77,7 +77,7 @@
     <div class="container">
 
       <div class="intro-img">
-        <img src="assets/images/wnner.png" alt="" class="img-fluid">
+        <img src="assets/images/wnner.png" alt="" class="img-fluid animated">
       </div>
 
       <div class="intro-info">
