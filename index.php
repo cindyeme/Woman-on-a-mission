@@ -74,13 +74,13 @@
 
   <!-- ======= Intro Section ======= -->
   <section id="intro" class="clearfix">
-    <div class="container" data-aos="fade-up">
+    <div class="container">
 
-      <div class="intro-img" data-aos="zoom-out" data-aos-delay="200">
+      <div class="intro-img">
         <img src="assets/images/wnner.png" alt="" class="img-fluid">
       </div>
 
-      <div class="intro-info" data-aos="zoom-in" data-aos-delay="100">
+      <div class="intro-info">
         <h2>Woman on a<br><span>Mission</span><br></h2>
         <p>A first-of-its-kind Reality TV
             Show conceived to enlighten, empower and enable the
