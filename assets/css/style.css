@@ -1491,8 +1491,9 @@ form .form-group .toggle-pwd:hover {
   padding: 1.2rem 1rem;
 }
 .u_info label{
-  font-family: var(--Cabin);
+  font-family: var(--Lato) !important;
   color: #444;
+  font-weight: 600;
 }
 .u_info label::after{
   content: "*";
