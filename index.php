@@ -87,7 +87,7 @@
             Female folks... </p>
         <div>
           <a href="#" class="btn-log login trans_300" data-target="#login" data-toggle="modal">Login</a>
-          <a href="#" class="btn-log register trans_300" data-target="#register" data-toggle="modal">Register</a>
+          <a href="register.html" class="btn-log register trans_300">Register</a>
         </div>
       </div>
 
@@ -530,94 +530,6 @@
 							<span>Register <i class="fa fa-long-arrow-left"></i></span>
 						</span>
 						<a href="forgot-id.html" class="text-center float-right">Forgot ID?</a>
-                    </div>
-				</form>
-              </div>
-            </div>
-        </div>
-    </div>
-
-
-        <!-- Register Modal -->
-    <div class="modal fade" id="register">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-
-            <!-- Modal header -->
-            <div class="modal-header">
-                <h4 class="modal-title">Register</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-
-            <!-- Modal body -->
-            <div class="modal-body">
-                <form action="#" method="POST" enctype="multipart/form-data" class="register-form clearfix">
-
-					<!-- Fullname -->
-                    <div class="form-group">
-                      <label for="txt_email">Fullname</label>
-                        <input 
-						type="text" 
-						name="fullname" 
-						id="fullname" 
-						class="form-control form-control-lg" 
-						placeholder="Fullname" 
-						title="Enter your fullname here!" required>
-						<div class="validate"></div>
-                    </div>
-
-					<!-- Email -->
-                    <div class="form-group">
-                      <label for="txt_email">Email</label>
-                        <input 
-						type="email" 
-						name="email" 
-						id="txt_email" 
-						class="form-control form-control-lg" 
-						placeholder="Email" 
-						title="Please enter valid email address!" required>
-						<div class="validate"></div>
-                    </div>
-
-					<!-- Password -->
-                    <div class="form-group">
-                      <label for="txt_pwd">Password</label>
-                        <input 
-						type="password" 
-						name="password" 
-						id="txt_pwd" 
-						class="form-control form-control-lg pwd_input" 
-						placeholder="Password"
-						title="Password must be at least 8 characters" required>
-						<i class="fa fa-eye-slash toggle-pwd"></i>
-						<div class="validate"></div>
-                    </div>
-
-					<!-- Password -->
-                    <div class="form-group">
-                      <label for="txt_pwd">Confirm password</label>
-                        <input 
-						type="password" 
-						name="password" 
-						id="txt_pwd" 
-						class="form-control form-control-lg pwd_input" 
-						placeholder="Password"
-						title="Password must be the same!" required>
-						<i class="fa fa-eye-slash toggle-pwd"></i>
-						<div class="validate"></div>
-                    </div>
-
-                    <div id="err_msg"></div>
-                    
-                    <div class="form-group">
-                        <button type="submit" class="btn w-100"><i class="fa fa-lock"></i> Register</button>
-                    </div>
-
-                    <div class="fitems clearfix">
-						<span class="float-right reg">
-							Already have an account?
-							<span>Login <i class="fa fa-long-arrow-right"></i></span>
-						</span>
                     </div>
 				</form>
               </div>
